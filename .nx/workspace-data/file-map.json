@@ -6,20 +6,24 @@
   "fileMap": {
     "nonProjectFiles": [
       {
-        "file": "package.json",
-        "hash": "15245947723663279494"
-      },
-      {
-        "file": "package-lock.json",
-        "hash": "11639018484592654602"
-      },
-      {
         "file": "README.md",
         "hash": "10142588681745642533"
       },
       {
         "file": "nx.json",
         "hash": "18336426213955174907"
+      },
+      {
+        "file": ".gitignore",
+        "hash": "2303642404724327591"
+      },
+      {
+        "file": "package-lock.json",
+        "hash": "11639018484592654602"
+      },
+      {
+        "file": "package.json",
+        "hash": "15245947723663279494"
       }
     ],
     "projectFileMap": {}
